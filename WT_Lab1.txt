@@ -1,2 +1,2 @@
-This file was created for lab 1.
-The changes were committed using git commit.
+This file was created for lab 1.git add
+The changes were committed using git commit.    
